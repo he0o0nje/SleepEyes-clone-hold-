@@ -3,6 +3,18 @@
 .pcbr {
   display: block;
 }
+.tbbr {
+  display: none;
+}
+.mbbr {
+  display: none;
+}
+.pctb {
+  display: block;
+}
+.dn {
+  display: none;
+}
 .section > div {
   width: 100%;
   height: 100% !important;
