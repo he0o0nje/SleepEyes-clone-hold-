@@ -207,7 +207,7 @@
   width: 16px;
   height: 30px;
   margin: 0 35px 0 0;
-  background: url(./images/main/vprev.png) no-repeat;
+  background: url(../images/main/vprev.png) no-repeat;
   cursor: pointer;
 }
 .visual .ctr .vnext {
@@ -216,7 +216,7 @@
   width: 16px;
   height: 30px;
   margin: 0 0 0 35px;
-  background: url(./images/main/vnext.png) no-repeat;
+  background: url(../images/main/vnext.png) no-repeat;
   cursor: pointer;
 }
 
@@ -259,7 +259,7 @@
 #section2 {
   box-sizing: border-box;
   padding: 90px 3%;
-  background: #000 url(./images/main/sec2_bg.jpg) no-repeat center;
+  background: #000 url(../images/main/sec2_bg.jpg) no-repeat center;
   background-size: cover;
 }
 #section2 .conwrap {
@@ -299,19 +299,19 @@
   border-radius: 10px;
 }
 #section2 .conwrap .tech.bg1 {
-  background: url(./images/main/sec2_bg1.jpg) no-repeat center;
+  background: url(../images/main/sec2_bg1.jpg) no-repeat center;
   background-size: cover;
 }
 #section2 .conwrap .tech.bg2 {
-  background: url(./images/main/sec2_bg2.jpg) no-repeat center;
+  background: url(../images/main/sec2_bg2.jpg) no-repeat center;
   background-size: cover;
 }
 #section2 .conwrap .tech.bg3 {
-  background: url(./images/main/sec2_bg3.jpg) no-repeat center;
+  background: url(../images/main/sec2_bg3.jpg) no-repeat center;
   background-size: cover;
 }
 #section2 .conwrap .tech.bg4 {
-  background: url(./images/main/sec2_bg4.jpg) no-repeat center;
+  background: url(../images/main/sec2_bg4.jpg) no-repeat center;
   background-size: cover;
 }
 #section2 .conwrap .tech.bg5 {
@@ -322,7 +322,7 @@
   text-align: center;
 }
 #section2 .conwrap .tech.bg6 {
-  background: url(./images/main/sec2_bg5.jpg) no-repeat center;
+  background: url(../images/main/sec2_bg5.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -451,16 +451,16 @@
   top: 0;
 }
 #section3 .conwrap .txtwrap .merit dl:nth-child(1):before {
-  background: url(./images/main/sec3_icon1.png) no-repeat center;
+  background: url(../images/main/sec3_icon1.png) no-repeat center;
 }
 #section3 .conwrap .txtwrap .merit dl:nth-child(2):before {
-  background: url(./images/main/sec3_icon2.png) no-repeat center;
+  background: url(../images/main/sec3_icon2.png) no-repeat center;
 }
 #section3 .conwrap .txtwrap .merit dl:nth-child(3):before {
-  background: url(./images/main/sec3_icon3.png) no-repeat center;
+  background: url(../images/main/sec3_icon3.png) no-repeat center;
 }
 #section3 .conwrap .txtwrap .merit dl:nth-child(4):before {
-  background: url(./images/main/sec3_icon4.png) no-repeat center;
+  background: url(../images/main/sec3_icon4.png) no-repeat center;
 }
 #section3 .conwrap .txtwrap .merit dl dt {
   font-size: 24px;
@@ -556,7 +556,7 @@
   content: "";
   width: 79px;
   height: 79px;
-  background: url(./images/main/btn_play.png) no-repeat;
+  background: url(../images/main/btn_play.png) no-repeat;
   background-size: cover;
   position: absolute;
   left: 50%;
@@ -565,7 +565,7 @@
   transition: all 0.4s;
 }
 #section4 .conwrap .nn .swiper-slide:hover .thumb:after {
-  background: url(./images/main/btn_play2.png) no-repeat;
+  background: url(../images/main/btn_play2.png) no-repeat;
   background-size: cover;
 }
 #section4 .conwrap .nn .swiper-slide .info {
@@ -617,7 +617,7 @@
   content: "";
   width: 15px;
   height: 9px;
-  background: url(./images/main/notice_arr.png) no-repeat;
+  background: url(../images/main/notice_arr.png) no-repeat;
   position: absolute;
   right: 30px;
   top: 50%;
@@ -643,5 +643,5 @@
   border-top: 1px solid rgba(0, 0, 0, 0.15);
 }
 #section4 .conwrap .nn .swiper-slide:hover .info .date:after {
-  background: url(./images/main/notice_arr2.png) no-repeat;
+  background: url(../images/main/notice_arr2.png) no-repeat;
 }
