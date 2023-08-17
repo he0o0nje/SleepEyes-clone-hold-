@@ -43,9 +43,7 @@
   transition-property: -webkit-transform;
   -o-transition-property: transform;
   transition-property: transform;
-  transition-property:
-    transform,
-    -webkit-transform;
+  transition-property: transform, -webkit-transform;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
 }
@@ -80,9 +78,7 @@
   transition-property: -webkit-transform;
   -o-transition-property: transform;
   transition-property: transform;
-  transition-property:
-    transform,
-    -webkit-transform;
+  transition-property: transform, -webkit-transform;
 }
 
 .swiper-slide-invisible-blank {
@@ -99,18 +95,11 @@
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  -webkit-transition-property:
-    height,
-    -webkit-transform;
-  transition-property:
-    height,
-    -webkit-transform;
+  -webkit-transition-property: height, -webkit-transform;
+  transition-property: height, -webkit-transform;
   -o-transition-property: transform, height;
   transition-property: transform, height;
-  transition-property:
-    transform,
-    height,
-    -webkit-transform;
+  transition-property: transform, height, -webkit-transform;
 }
 
 .swiper-container-3d {
@@ -440,22 +429,11 @@ button.swiper-pagination-bullet {
   > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic
   .swiper-pagination-bullet {
   display: inline-block;
-  -webkit-transition:
-    0.2s top,
-    0.2s -webkit-transform;
-  transition:
-    0.2s top,
-    0.2s -webkit-transform;
-  -o-transition:
-    0.2s transform,
-    0.2s top;
-  transition:
-    0.2s transform,
-    0.2s top;
-  transition:
-    0.2s transform,
-    0.2s top,
-    0.2s -webkit-transform;
+  -webkit-transition: 0.2s top, 0.2s -webkit-transform;
+  transition: 0.2s top, 0.2s -webkit-transform;
+  -o-transition: 0.2s transform, 0.2s top;
+  transition: 0.2s transform, 0.2s top;
+  transition: 0.2s transform, 0.2s top, 0.2s -webkit-transform;
 }
 
 .swiper-container-horizontal
@@ -476,43 +454,21 @@ button.swiper-pagination-bullet {
 .swiper-container-horizontal
   > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic
   .swiper-pagination-bullet {
-  -webkit-transition:
-    0.2s left,
-    0.2s -webkit-transform;
-  transition:
-    0.2s left,
-    0.2s -webkit-transform;
-  -o-transition:
-    0.2s transform,
-    0.2s left;
-  transition:
-    0.2s transform,
-    0.2s left;
-  transition:
-    0.2s transform,
-    0.2s left,
-    0.2s -webkit-transform;
+  -webkit-transition: 0.2s left, 0.2s -webkit-transform;
+  transition: 0.2s left, 0.2s -webkit-transform;
+  -o-transition: 0.2s transform, 0.2s left;
+  transition: 0.2s transform, 0.2s left;
+  transition: 0.2s transform, 0.2s left, 0.2s -webkit-transform;
 }
 
 .swiper-container-horizontal.swiper-container-rtl
   > .swiper-pagination-bullets-dynamic
   .swiper-pagination-bullet {
-  -webkit-transition:
-    0.2s right,
-    0.2s -webkit-transform;
-  transition:
-    0.2s right,
-    0.2s -webkit-transform;
-  -o-transition:
-    0.2s transform,
-    0.2s right;
-  transition:
-    0.2s transform,
-    0.2s right;
-  transition:
-    0.2s transform,
-    0.2s right,
-    0.2s -webkit-transform;
+  -webkit-transition: 0.2s right, 0.2s -webkit-transform;
+  transition: 0.2s right, 0.2s -webkit-transform;
+  -o-transition: 0.2s transform, 0.2s right;
+  transition: 0.2s transform, 0.2s right;
+  transition: 0.2s transform, 0.2s right, 0.2s -webkit-transform;
 }
 
 .swiper-pagination-progressbar {
