@@ -139,7 +139,6 @@ body {
   z-index: 1001;
 }
 #header {
-  background-color: navy;
   position: fixed;
   left: 0;
   top: 0;
@@ -167,8 +166,8 @@ body {
   text-indent: -9999px;
   background: url(/images/common/logo1.png) no-repeat;
 }
-.head .pc_nav {
-}
+/* .head .pc_nav {
+} */
 .head .pc_nav .bg {
   display: none;
   position: absolute;

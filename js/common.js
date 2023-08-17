@@ -51,6 +51,7 @@ $(function () {
       .find(".sub")
       .removeClass("act");
   });
+
   $("#header").mouseleave(function () {
     $("#header").removeClass("wh");
     $(".head .pc_nav .bg").stop().slideUp();
