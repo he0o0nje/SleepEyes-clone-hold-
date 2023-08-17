@@ -548,6 +548,7 @@
   width: 440px;
   border-radius: 10px;
   transition: all 1s;
+  margin-right: 40px;
 }
 #section4 .conwrap .nn .swiper-slide .thumb {
   overflow: hidden;
